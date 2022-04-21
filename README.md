@@ -1,20 +1,26 @@
-0x11. C - printf
-Concepts
-For this project, look at these concepts:
+# 0x11. C - printf
 
-Group Projects
-Pair Programming - How To
-Flowcharts
-Technical Writing
-Background Context
-Write your own printf function.
+## Concepts
 
-Resources
-Read or watch:
+_For this project, look at these concepts:_
 
-Secrets of printf
-Group Projects concept page (Don't forget to read this)
-Flowcharts concept page
-man or help:
+* [Group Projects](https://www.alx-intranet.hbtn.io/concepts/111)
+* [Pair Programming - How To](https://www.alx-intranet.hbtn.io/concepts/121)
+* [Flowcharts](https://www.alx-intranet.hbtn.io/concepts/130)
+* [Technical Writing](https://www.alx-intranet.hbtn.io/concepts/225)
 
-printf (3)
+## Background Context
+
+Write your own **_printf_** function.
+
+## Resources
+
+**Read or watch:**
+
+* [Secrets of printf](https://www.cypress.com/file/54761/download)
+* **Group Projects** concept page (_Don't forget to read this_)
+* **Flowcharts** concept page
+
+**man or help:**
+
+* **_printf (3)_**
