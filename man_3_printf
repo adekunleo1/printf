@@ -1,0 +1,34 @@
+.TH man 3 "24 April 2022" "1.0" "_printf man page"
+.SH NAME
+_printf \- prints formatted string 
+.SH SYNOPSIS
+int printf(const char *format, ...);
+.SH DESCRIPTION
+_printf() is a series of functions that can be used to print a formatted string
+by using a series of characters, format specifiers and flags.
+
+.SS Format of the format string
+Format points to a character string containing zero or more regular characters
+or format specifiers starting with a '%' character and followed
+by a subsequent argument to be passed after format
+.SS Conversion specifiers
+To indicate the specifier type each '%' is followed by a character
+Here are all the use of specifiers handles function:
+
+c		used to specify a single character
+
+s		specifies a string of characters
+
+d, i		integers are specified using these characters
+
+b		converts an unsigned integer to its binary equivalent
+
+%		prints a modulus
+
+.SH SEE ALSO
+printf(3), puts(3), scanf(3)
+.SH BUGS
+No known bugs.
+.SH AUTHOR
+Lawrence Kewir
+Adekunle Ogunleye
